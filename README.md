@@ -62,7 +62,7 @@ This lab will reinforce topics covered in the lectures about creating static met
 ---
 
 ### Bonus Challenge: Make A Menu
-**(5 pts extra credit on this assignment)**
+**(10 pts extra credit on this assignment)**
 
 **THIS FEATURE IS NOT REQUIRED.**
 
